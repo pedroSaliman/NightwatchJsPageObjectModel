@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="3">
+
+  <testsuite name="test"
+    errors="0" failures="0" hostname="" id="" package="test" skipped="0"
+    tests="3" time="17.43" timestamp="">
+  
+    <testcase name="this the wishlisttestcse" classname="test" time="5.028" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="this contact case" classname="test" time="2.960" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="the compare case" classname="test" time="9.444" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
